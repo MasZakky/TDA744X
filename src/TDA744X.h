@@ -4,6 +4,8 @@
 #include "Arduino.h"
 #include "SendTrans.h"
 
+#include "TDA743X.h"
+
  #if defined(Surr_SIMULATED) || defined(Surr_MUSIC) || defined(Surr_MOVIE) || defined(Surr_OFF)
    #undef Surr_SIMULATED 
    #undef Surr_MUSIC     
@@ -98,6 +100,14 @@ class TDA7442 : public SendTransI2C{
     int8_t MaxInput(int8_t val = 4);
     int16_t Constrain(int16_t val,int16_t val2,int16_t val3);
     int8_t _UPN,_MInput;
+};
+
+class TDA7440 :public TDA7439{
+  public:
+    int8_t Middle(int8_t val){
+      return Process_Not_Found;
+    }
+  protected:
 };
 
 #endif
