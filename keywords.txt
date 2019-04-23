@@ -24,6 +24,12 @@ Bass KEYWORD2
 Treble KEYWORD2
 Balance KEYWORD2
 Mute KEYWORD2
+DisableMute KEYWORD2
+EnableMute KEYWORD2
+SurroundMode KEYWORD2
+Surround_SIMULATED KEYWORD2
+Surround_MUSIC KEYWORD2
+Surround_OFF KEYWORD2
 
 #######################################
 # Constants (LITERAL1)				  #
