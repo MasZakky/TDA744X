@@ -6,20 +6,24 @@
 # Datatypes (KEYWORD1)				  #	
 #######################################
 
+tda7440	KEYWORD1
 TDA7442	KEYWORD1
+TDA7443	KEYWORD1
+
 
 #######################################
 # Methods and Functions (KEYWORD2)	  #
 #######################################
 
-IN_GAIN			KEYWORD2
-IN_MODE			KEYWORD2
-IN_RESISTOR		KEYWORD2
-IN_BASS			KEYWORD2
-IN_TREBLE		KEYWORD2
-IN_VOL_L		KEYWORD2
-IN_VOL_R		KEYWORD2
-IN_SELECT		KEYWORD2
+begin KEYWORD2
+UseValue KEYWORD2
+Input KEYWORD2
+Gain KEYWORD2
+Volume KEYWORD2
+Bass KEYWORD2
+Treble KEYWORD2
+Balance KEYWORD2
+Mute KEYWORD2
 
 #######################################
 # Constants (LITERAL1)				  #
