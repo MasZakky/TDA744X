@@ -6,10 +6,10 @@
 # Datatypes (KEYWORD1)				  #	
 #######################################
 
-tda7440	KEYWORD1
+TDA744X	KEYWORD1
+TDA7440	KEYWORD1
 TDA7442	KEYWORD1
 TDA7443	KEYWORD1
-
 
 #######################################
 # Methods and Functions (KEYWORD2)	  #
