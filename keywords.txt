@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For TDA7442	  #
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)				  #	
+#######################################
+
+TDA7442	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)	  #
+#######################################
+
+IN_GAIN			KEYWORD2
+IN_MODE			KEYWORD2
+IN_RESISTOR		KEYWORD2
+IN_BASS			KEYWORD2
+IN_TREBLE		KEYWORD2
+IN_VOL_L		KEYWORD2
+IN_VOL_R		KEYWORD2
+IN_SELECT		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)				  #
+#######################################
+
