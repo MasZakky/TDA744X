@@ -1,9 +1,9 @@
 #######################################
-# Syntax Coloring Map For TDA7442	  #
+# Syntax Coloring Map For TDA7442     #
 #######################################
 
 #######################################
-# Datatypes (KEYWORD1)				  #	
+# Datatypes (KEYWORD1)                #
 #######################################
 
 TDA744X	KEYWORD1
@@ -12,26 +12,26 @@ TDA7442	KEYWORD1
 TDA7443	KEYWORD1
 
 #######################################
-# Methods and Functions (KEYWORD2)	  #
+# Methods and Functions (KEYWORD2)    #
 #######################################
 
-begin KEYWORD2
-UseValue KEYWORD2
-Input KEYWORD2
-Gain KEYWORD2
-Volume KEYWORD2
-Bass KEYWORD2
-Treble KEYWORD2
-Balance KEYWORD2
-Mute KEYWORD2
-DisableMute KEYWORD2
-EnableMute KEYWORD2
-SurroundMode KEYWORD2
-Surround_SIMULATED KEYWORD2
-Surround_MUSIC KEYWORD2
-Surround_OFF KEYWORD2
+begin	KEYWORD2
+UseValue	KEYWORD2
+Input	KEYWORD2
+Gain	KEYWORD2
+Volume	KEYWORD2
+Bass	KEYWORD2
+Treble	KEYWORD2
+Balance	KEYWORD2
+Mute	KEYWORD2
+DisableMute	KEYWORD2
+EnableMute	KEYWORD2
+SurroundMode	KEYWORD2
+Surround_SIMULATED	KEYWORD2
+Surround_MUSIC	KEYWORD2
+Surround_OFF	KEYWORD2
 
 #######################################
-# Constants (LITERAL1)				  #
+# Constants (LITERAL1)                #
 #######################################
 
